@@ -79,9 +79,7 @@ class MusicManiac_9x39_50_rounder implements IPostDBLoadMod
 		customItem.createItemFromClone(magUp);
 		
 		itemDB["57c44b372459772d2b39b8ce"]._props.Slots[2]._props.filters[0].Filter.push(newID);
-		itemDB["57838ad32459774a17445cd2"]._props.Slots[2]._props.filters[0].Filter.push(newID);
-
-		const traderStuff = this.traderStuff;
+		itemDB["57838ad32459774a17445cd2"]._props.Slots[1]._props.filters[0].Filter.push(newID);
 
 		tables.traders["5a7c2eca46aef81a7ca2145d"].assort.items.push(
 			{
