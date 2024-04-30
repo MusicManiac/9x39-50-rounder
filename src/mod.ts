@@ -55,7 +55,8 @@ class MusicManiac_9x39_50_rounder implements IPostDBLoadMod
 										"61962d879bb3d20b0946d385",
 										"57a0dfb82459774d3078b56c",
 										"57a0e5022459774d1673f889",
-										"5c0d668f86f7747ccb7f13b2"
+										"5c0d668f86f7747ccb7f13b2",
+										"6576f96220d53a5b8f3e395e"
 									]
 								}
 							]
